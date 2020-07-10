@@ -1,0 +1,30 @@
+PLASTICBOY - ANATOMY MODELS V05
+-------------------------------
+
+Model: Male Anatomy Pack Complete V05
+
+Objects: 957
+
+Lights: 4
+Materials: 53
+Texture Maps: 71
+Location: Male_Anatomy_Pack_Complete_V05_FBX folder
+
+Poly count: 397 477
+
+Vertex count: 393 358
+
+Project folder: Male_Anatomy_Pack_Complete_V05_FBX
+
+File format: Male_Anatomy_Pack_Complete_V05.fbx 
+File Size: 24.3 MB
+Location: Male_Anatomy_Pack_Complete_V05_fbx folder
+
+
+Application: Autodesk FBX
+
+Export version: FBX Plug-in 2011.1
+
+Axis:  y-up
+
+
